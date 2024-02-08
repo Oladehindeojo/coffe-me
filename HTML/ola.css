@@ -1,0 +1,15 @@
+*{padding: 10px;}
+.tomato {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px lightgray;
+    background: tomato;}
+.footer,th{ 
+    color: white;
+background-color: #427fef;}
+.odd{background: #eef7ff;}
+.first{border-collapse: collapse;
+    border-color:  #c4dcf3;}
+    
+

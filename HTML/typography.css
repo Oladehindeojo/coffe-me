@@ -1,0 +1,5 @@
+
+.container{border: 3px solid black; max-width: 1140px; padding: 80px; max-height: 100vh;
+ margin:auto;}
+img{width: 100%;object-fit:cover;height: 200px;}
+.story{font-style:italic ;}
